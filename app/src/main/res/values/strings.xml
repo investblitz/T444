@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">T4</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nome Completo</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTO</string>
+    <string name="btn_link_to_register">Não és membro? Registate.</string>
+    <string name="btn_link_to_login">Já es Membro? Login</string>
+    <string name="welcome">Bem Vindo</string>
+    <string name="btn_logout">Sair</string>
+
+    <string name="name">Nome Completo</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
